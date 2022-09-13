@@ -1,0 +1,17 @@
+.row{
+    width: 440px;
+    height: 150px;
+    background-color: aqua;
+    border-style: dashed;
+    border-color: black;
+}
+.col{
+    width: 100px;
+    display: flex;
+    display: inline-block;
+}
+.col1{
+    display: inline-block;
+    display: flex;
+    
+}
